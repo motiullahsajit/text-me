@@ -30,6 +30,10 @@
     background-color: #9d8df3;
     color: #ffffff;
 }
+.copy__right{
+    margin-top: 2rem;
+    color:#9d8df3;
+}
 
 .login__container .error__meassage{
     color: red;
